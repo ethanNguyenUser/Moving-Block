@@ -1,0 +1,21 @@
+Nguyen, Ethan
+Mr. Kuszmaul
+AP Computer Science, Period 1
+27 March 2019
+
+Introduction:
+MovingBlock was a physics-engine program that worked with concepts of velocity, acceleration, conservation of momentum, conservation of kinetic energy, electromagnetism,
+and etc.
+
+Specification Fulfillment:
+The user-controlled block increments its velocity directionally according to arrow input. The block also undergoes an automatic set of accelerations which eventually
+bring it to a stop at the clicked point. The block can also visit a whole series of points. Given multiple blocks including those of different masses, they can collide
+elastically and conserve momentum and kinetic energy. For blocks of like charges and different charges, they also repel or attract respectively, although a bit buggily. 
+There are also additional features of a stop button which stops all the blocks and a 
+
+Code Structure Methods:
+
+
+Major Challenges:
+Conservation of Momentum and Kinetic Energy was pretty challenging. I first tried to solve the final velocity equations by hand until I simply just used Desmos graphing
+calculator. 
